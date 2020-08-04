@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 🏫  毕业学校：SWUFE（金融 - 硕士）、SWUN（软件工程 - 学士）
 
 ## Profile
-- 🔭  I’m currently working on XWFintech.
-- 🌱  The current aim is process the learned back-end knowledge form into a knowledge database.
+- 🔭  I’m currently working on **XWFintech**.
+- 🌱  The current aim is process the learned back-end knowledge to knowledge database.
 - 🤔  I’m looking for the material about knowledge precipitation and internalization.
 - 💬  Ask me about `Java`·`Spring`·`JVM`·`data structure`·`algorithm`
 - ⚡  Fun fact: Harmonica, Fitness, Reading, Animation
