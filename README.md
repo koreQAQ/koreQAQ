@@ -18,9 +18,18 @@ Here are some ideas to get you started:
 > 识迷途其未远，觉今是而昨非。
 > 			  陶渊明《归去来兮辞》
 
-- 🔭 就职于**新希望金融科技公司**
-- 🌱 现阶段目标是：正在将之前的学习后端知识形成知识库。
-- 🤔 想知道关于`知识沉淀`与`知识内化`方面的资料。
-- 💬 可以尝试解答`Java`·`Spring`·`JVM`·`数据结构`·`算法`方面的问题。
-- ⚡ 兴趣爱好：口琴·健身·阅读·动漫
-- 🏫 学校：SWUFE（金融 - 硕士）、SWUN（软件工程 - 学士）
+## 简介
+- 🔭  就职于**新希望金融科技公司**
+- 🌱  现阶段目标是：将学习的后端知识形成知识库。
+- 🤔  想知道关于`知识沉淀`与`知识内化`方面的资料。
+- 💬  可以尝试解答`Java`·`Spring`·`JVM`·`数据结构`·`算法`方面的问题。
+- ⚡  兴趣爱好：口琴·健身·阅读·动漫
+- 🏫  毕业学校：SWUFE（金融 - 硕士）、SWUN（软件工程 - 学士）
+
+## Profile
+- 🔭  I’m currently working on XWFintech.
+- 🌱  The current aim is process the learned back-end knowledge form into a knowledge database.
+- 🤔  I’m looking for the material about knowledge precipitation and internalization.
+- 💬  Ask me about `Java`·`Spring`·`JVM`·`data structure`·`algorithm`
+- ⚡  Fun fact: Harmonica, Fitness, Reading, Animation
+- 🏫  School：SWUFE（MF）、SWUN（BSE）
