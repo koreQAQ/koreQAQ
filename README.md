@@ -19,20 +19,7 @@ Here are some ideas to get you started:
 > 			  —— 陶渊明·《归去来兮辞》
 
 ## 简介
-- 🔭  就职于**新希望金融科技公司**
-- 🌱  现阶段目标是：做出一款DeFi 应用。
-- 🤔  想知道关于`知识沉淀`与`知识内化`方面的资料。
-- 💬  可以尝试解答`Java`·`Python`·`DeFi`·`Algorand`·`ETH`方面的问题。
-- ⚡  兴趣爱好：搞钱
+- 🔭  在家
+- 🌱  现阶段目标是：数据分析、交易
 - 🏫  毕业学校：SWUFE（金融 - 硕士）、SWUN（软件工程 - 学士）
 
-## Profile
-- 🔭  I’m currently working on **XWFintech**.
-- 🌱  The current aim is make a DeFi Application
-- 🤔  I’m looking for the material about knowledge precipitation and internalization.
-- 💬  Ask me about `Java`·`Python`·`DeFi`·`Algorand`·`ETH`
-- ⚡  Fun fact: Money
-- 🏫  School：SWUFE（MF）、SWUN（BSE）
-
-## Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koreQAQ)](https://github.com/anuraghazra/github-readme-stats)
